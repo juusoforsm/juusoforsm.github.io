@@ -1,0 +1,40 @@
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fef5e7;
+}
+
+.navbar {
+    background-color: #bb9a2c;
+}
+
+h1 {
+    font-size: 300%;
+    float: right;
+}
+
+p {
+    font-size: x-large;
+}
+
+.carousel-item {
+    height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    max-height: 500px;
+}
+
+.btn {
+    margin-top: 10px;
+    background-color: #977d26;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: #b7ebf8;
+}

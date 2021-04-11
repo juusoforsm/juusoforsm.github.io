@@ -1,0 +1,30 @@
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fef5e7;
+}
+
+h1 {
+    font-size: 300%;
+    margin: 100px;
+}
+
+.navbar {
+    background-color: #bb9a2c;
+}
+
+.navbar-nav .nav-item:hover .nav-link {
+    color: #b7ebf8;
+}
+
+input,
+textarea {
+    width: 100%;
+    margin-top: 4px;
+}
+
+p {
+    font-size: large;
+    margin-top: 50px;
+}
