@@ -9,6 +9,7 @@ h1 {
     font-size: 300%;
     margin-top: 100px;
     margin-bottom: 100px;
+    color: #e85A4f;
 }
 
 .navbar {
@@ -16,7 +17,7 @@ h1 {
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-    color: #e98704;
+    color: #e98074;
 }
 
 input,

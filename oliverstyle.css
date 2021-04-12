@@ -7,6 +7,7 @@ body {
 
 h1 {
     font-size: 300%;
+    color: #e85A4f;
 }
 
 p {
@@ -18,5 +19,5 @@ p {
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-    color: #e98704;
+    color: #e98074;
 }
