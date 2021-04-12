@@ -7,7 +7,8 @@ body {
 
 h1 {
     font-size: 300%;
-    margin: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 .navbar {
@@ -15,7 +16,7 @@ h1 {
 }
 
 .navbar-nav .nav-item:hover .nav-link {
-    color: #b7ebf8;
+    color: #f3cdff;
 }
 
 input,
