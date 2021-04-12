@@ -11,8 +11,8 @@ body {
 
 h1 {
     font-size: 300%;
-    float: right;
     color: #e85A4f;
+    margin: 30px;
 }
 
 h4 {
@@ -36,7 +36,8 @@ p {
 }
 
 .btn {
-    margin-top: 10px;
+    margin-top: 30px;
+    margin-bottom: 30px;
     background-color: #cfbb9e;
     border: #cfbb9e;
 }
