@@ -15,8 +15,12 @@ h1 {
     color: #e85A4f;
 }
 
+h4 {
+    color: #e85A4f;
+}
+
 p {
-    font-size: x-large;
+    font-size: 135%;
 }
 
 .carousel-item {
