@@ -23,6 +23,11 @@ p {
     font-size: 135%;
 }
 
+li {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
 .karuselli {
     margin-bottom: 20px;
 }
