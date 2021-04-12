@@ -24,8 +24,8 @@ p {
 }
 
 li {
-    margin-right: 40px;
-    margin-left: 40px;
+    margin-right: 35px;
+    margin-left: 35px;
 }
 
 .karuselli {
@@ -33,7 +33,7 @@ li {
 }
 
 .carousel-item {
-    height: 700px;
+    height: 1100px;
 }
 
 .carousel-item img {
@@ -41,7 +41,8 @@ li {
     object-fit: cover;
     top: 0;
     left: 0;
-    max-height: 700px;
+    max-height: 1100px;
+    margin-top: 30px;
 }
 
 .btn {
