@@ -12,7 +12,7 @@ body {
 h1 {
     font-size: 500%;
     color: #e85A4f;
-    margin-bottom: 20px;
+    margin: 20px;
 }
 
 h4 {
@@ -40,7 +40,7 @@ p {
 }
 
 .btn {
-    margin-top: 30px;
+    margin-top: 10px;
     margin-bottom: 20px;
     background-color: #cfbb9e;
     border: #cfbb9e;
