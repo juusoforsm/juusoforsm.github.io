@@ -26,3 +26,7 @@ h4 {
 .navbar-nav .nav-item:hover .nav-link {
     color: #e98074;
 }
+
+.kissakuvat {
+    margin-bottom: 10px;
+}

@@ -27,6 +27,10 @@ textarea {
 }
 
 p {
-    font-size: large;
+    font-size: small;
     margin-top: 50px;
+}
+
+h2 {
+    color: #e98074;
 }
