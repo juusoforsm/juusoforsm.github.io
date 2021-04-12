@@ -12,6 +12,7 @@ body {
 h1 {
     font-size: 300%;
     float: right;
+    color: #e85A4f;
 }
 
 p {
@@ -36,6 +37,10 @@ p {
     border: #cfbb9e;
 }
 
+.btn:hover {
+    background-color: #e98074;
+}
+
 .navbar-nav .nav-item:hover .nav-link {
-    color: #f3cdff;
+    color: #e98074;
 }
