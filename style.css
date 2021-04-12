@@ -23,8 +23,12 @@ p {
     font-size: 135%;
 }
 
+.karuselli {
+    margin-bottom: 20px;
+}
+
 .carousel-item {
-    height: 500px;
+    height: 700px;
 }
 
 .carousel-item img {
@@ -32,7 +36,7 @@ p {
     object-fit: cover;
     top: 0;
     left: 0;
-    max-height: 500px;
+    max-height: 700px;
 }
 
 .btn {
