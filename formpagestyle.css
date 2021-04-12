@@ -2,7 +2,7 @@ body {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
-    background-color: #fef5e7;
+    background-color: #EAE7DC;
 }
 
 h1 {
@@ -12,7 +12,7 @@ h1 {
 }
 
 .navbar {
-    background-color: #bb9a2c;
+    background-color: #cfbb9e;
 }
 
 .navbar-nav .nav-item:hover .nav-link {
