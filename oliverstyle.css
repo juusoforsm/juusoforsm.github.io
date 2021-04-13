@@ -40,6 +40,6 @@ h4 {
 
 @media (max-width:992px) {
     .pääkissakuva {
-        padding-left: 0px;
+        margin-left: 0px;
     }
 }
