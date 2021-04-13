@@ -35,3 +35,7 @@ p {
 .koirakuvat {
     margin-bottom: 10px;
 }
+
+.koirakuvia {
+    max-height: 700px;
+}
