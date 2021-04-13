@@ -28,11 +28,10 @@ p {
 }
 
 .carousel-item {
-    height: 950px;
+    max-height: 950px;
 }
 
 .carousel-item img {
-    position: absolute;
     object-fit: cover;
     top: 0;
     left: 0;
@@ -53,4 +52,10 @@ p {
 
 .navbar-nav .nav-item:hover .nav-link {
     color: #e98074;
+}
+
+@media (max-width:992px) {
+    .carousel-item {
+        height: auto;
+    }
 }
