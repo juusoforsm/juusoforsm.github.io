@@ -43,7 +43,7 @@ p {
     margin-top: 10px;
     margin-bottom: 30px;
     background-color: #cfbb9e;
-    border: #cfbb9e;
+    border: 0px;
 }
 
 .btn:hover {
